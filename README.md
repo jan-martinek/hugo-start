@@ -3,7 +3,7 @@
 A simple hugo boilerplate showing some of Hugo's functionality.
 
 
-## Quick start
+## Quick Start
 
 - Download [latest release](rel) and unzip into your working directory. 
 - Rename the folder as you want.
@@ -32,6 +32,12 @@ Running in Fast Render Mode. For full rebuilds on change: hugo server --disableF
 Web Server is available at http://localhost:1313/hugo-start/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
+
+## Best Practice
+
+When adding small changes, do not commit anything from `/docs folder`. Push changes in docs only after some milestone, preferably by a single user, so that merge conflicts do not make work with the repository difficult.
+
+Generally, built files are not to be commited exactly for this reason — but in this case, they're useful to generate a [Github Sites based website](http://jan-martinek.github.io/hugo-start/).
 
 
 ## Troubleshooting
