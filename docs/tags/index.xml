@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>http://jan-martinek.github.io/hugo-start/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 13 Mar 2017 19:09:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jan-martinek.github.io/hugo-start/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beatles</title>
-      <link>http://example.org/tags/beatles/</link>
-      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      <link>http://jan-martinek.github.io/hugo-start/tags/beatles/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/beatles/</guid>
+      <guid>http://jan-martinek.github.io/hugo-start/tags/beatles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://example.org/tags/data/</link>
-      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      <link>http://jan-martinek.github.io/hugo-start/tags/data/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/data/</guid>
+      <guid>http://jan-martinek.github.io/hugo-start/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/tags/hello-world/</link>
-      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      <link>http://jan-martinek.github.io/hugo-start/tags/hello-world/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hello-world/</guid>
+      <guid>http://jan-martinek.github.io/hugo-start/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>http://example.org/tags/jekyll/</link>
-      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      <title>Hugo</title>
+      <link>http://jan-martinek.github.io/hugo-start/tags/hugo/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/jekyll/</guid>
+      <guid>http://jan-martinek.github.io/hugo-start/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start</title>
-      <link>http://example.org/tags/start/</link>
-      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      <link>http://jan-martinek.github.io/hugo-start/tags/start/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/start/</guid>
+      <guid>http://jan-martinek.github.io/hugo-start/tags/start/</guid>
       <description></description>
     </item>
     
