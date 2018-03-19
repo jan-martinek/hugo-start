@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on My New Hugo Site</title>
+    <link>http://example.org/tags/data/</link>
+    <description>Recent content in Data on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 13 Mar 2017 19:09:48 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another post</title>
+      <link>http://example.org/post/2017-03-17-another-post/</link>
+      <pubDate>Mon, 13 Mar 2017 19:09:48 +0100</pubDate>
+      
+      <guid>http://example.org/post/2017-03-17-another-post/</guid>
+      <description> This is just another post. See how to include data inside your posts:
+Beatles Discography  {% for album in site.data.beatles %} {{ album.Name }} (released on {{ album.Released }}) {% endfor %}  </description>
+    </item>
+    
+  </channel>
+</rss>
